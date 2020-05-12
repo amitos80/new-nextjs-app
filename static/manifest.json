@@ -1,0 +1,16 @@
+{
+  "name": "New-Nextjs",
+  "short_name": "new-newxtjs",
+  "display": "standalone",
+  "scope": "mydomain.com/",
+  "start_url": "mydomain.com/",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#ec1843",
+  "description": "New-Nextjs description",
+  "icons": [{
+    "src": "/favicon.ico",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
